@@ -47,7 +47,8 @@ ul.posts li {
 #taf-title-div {
     background-color:darkgrey;
 }
-h1 {
-    font-size: 3em;
+
+#taf-title-text {
+    font-size: x-large;
     font-family: 'Work Sans', sans-serif;
 }
