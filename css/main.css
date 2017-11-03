@@ -49,6 +49,7 @@ ul.posts li {
 }
 
 #taf-title-text {
-    font-size: x-large;
+    font-size: 200%;
     font-family: 'Work Sans', sans-serif;
+    color: white;
 }
