@@ -1,3 +1,4 @@
 theme: jekyll-theme-midnight
 name: Threes and Fives
 markdown: kramdown
+timezone: Europe/London
