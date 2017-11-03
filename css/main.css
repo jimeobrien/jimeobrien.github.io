@@ -42,6 +42,12 @@ ul.posts li {
     list-style: none;
 }
 
-#title-div {
-    background-color: lightblue;
+/* TAF specific classes */
+
+#taf-title-div {
+    background-color:darkgrey;
+}
+h1 {
+    font-size: 3em;
+    font-family: 'Work Sans', sans-serif;
 }
