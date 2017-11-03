@@ -45,11 +45,11 @@ ul.posts li {
 /* TAF specific classes */
 
 #taf-title-div {
-    background-color:darkgrey;
+    background-color:black;
 }
 
 #taf-title-text {
-    font-size: 250%;
+    font-size: 500%;
     font-family: 'Work Sans', sans-serif;
     color: white;
 }
